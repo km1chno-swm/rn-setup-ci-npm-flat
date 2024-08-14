@@ -1,4 +1,4 @@
-package com.npmtest
+package com.rnsetupcinpmflat
 
 import android.app.Application
 import com.facebook.react.PackageList
